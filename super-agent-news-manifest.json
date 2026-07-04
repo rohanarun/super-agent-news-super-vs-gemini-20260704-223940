@@ -1,0 +1,29 @@
+{
+  "citations": [
+    "[frontiernews.ai](https://www.frontiernews.ai/news/article/googles-gemini-35-flash-gets-a-major-upgrade-what-e3b04ade)",
+    "[rohitraj.tech](https://rohitraj.tech/en/notes/gemini-computer-use-vs-claude-openai-2026)",
+    "[blog.google](https://blog.google/innovation-and-ai/technology/developers-tools/interactions-api-general-availability/)",
+    "[techcrunch.com](https://news.google.com/rss/articles/CBMingFBVV95cUxNTDVKblBucGxXMUtkNXZjWk5raElhdjZsUUE5SFZqcGVsU1k0RDJHd1lMZjQ2YTIyeEFWT2l2dmV5UDY0TFB3RmZwWm02X00ySm5iSFlJSUxGbUFweGdEX3FwTjRlNUJsU0tORERWUTRtSmlQVzBLakFLX2FabGJtRUdaWFhxX1RZYzFBdlJtd2ZUOXQzX3dGcV9vT1REQQ?oc=5)",
+    "[pcmag.com](https://ca.pcmag.com/ai/16273/gemini-spark-is-the-best-ai-agent-ive-testedbut-it-has-a-big-problem)",
+    "[markhuang.ai](https://markhuang.ai/news/gemini-computer-use-trust-loop)"
+  ],
+  "design_plan": "rng_seed=42; hero_lines=3; aida=checked; bento_density=grid-auto-flow:dense; label_sweep=done; button_contrast=black_on_paper_pass",
+  "generated_at": "2026-07-04T22:39:48.208570+00:00",
+  "headline": "Super vs Gemini \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Gemini",
+    "competitor": "Gemini",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Gemini. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Gemini AI agent",
+      "Gemini AI assistant",
+      "Gemini automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-gemini",
+    "title": "Super vs Gemini"
+  },
+  "summary": "Gemini is Google\u2019s ambitious push into agentic AI, now with built\u2011in computer use across browser, mobile, and desktop via Gemini 3.5 Flash and products like Gemini Spark. Super takes a different angle: a personal AI agent designed for people who want durable, repeatable computer\u2011use workflows that get cheaper and faster over time thanks to a reusable computer-use cache. This page compares where Gemini shines, where it\u2019s still complex or enterprise\u2011oriented, and why Super is often the sharper choice for everyday repeated automation."
+}
